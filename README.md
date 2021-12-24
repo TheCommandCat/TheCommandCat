@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheCommandCat
+- 👀 I’m interested in opencv and python
+- 🌱 I’m currently learning opencv
+- 📫 How to reach me: discord(TheCommandCat#3558) 
